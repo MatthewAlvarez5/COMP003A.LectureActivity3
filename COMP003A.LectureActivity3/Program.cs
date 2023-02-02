@@ -137,23 +137,23 @@ namespace COMP003A.LectureActivity3
             {
                 case 2:
                     // this code block executes if the case condition is true
-                    Console.WriteLine("\tinputNumber is divisible by 2.");
+                    Console.WriteLine("\tinputNumber is 2.");
                     break; // the break keyword exits out of the switch
                 case 3:
                     // this code block executes if the case condition is true
-                    Console.WriteLine("\tinputNumber is divisible by 3.");
+                    Console.WriteLine("\tinputNumber is 3.");
                     break;
                 case 5:
                     // this code block executes if the case condition is true
-                    Console.WriteLine("\tinputNumber is divisible by 5.");
+                    Console.WriteLine("\tinputNumber is 5.");
                     break;
                 case 7:
                     // this code block executes if the case condition is true
-                    Console.WriteLine("\tinputNumber is divisible by 7.");
+                    Console.WriteLine("\tinputNumber is 7.");
                     break;
                 default:
                     // this code block executes if none of the cases above is true
-                    Console.WriteLine("\tinputNumber is NOT divisible by 2/3/5/7.");
+                    Console.WriteLine("\tinputNumber is NOT any of these: 2/3/5/7.");
                     break;
             }
   
