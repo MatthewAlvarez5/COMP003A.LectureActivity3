@@ -11,9 +11,9 @@ namespace COMP003A.LectureActivity3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("****************************************");
+            Console.WriteLine("----------------------------------------");
             Console.WriteLine("conditional (selection) statements");
-            Console.WriteLine("****************************************");
+            Console.WriteLine("----------------------------------------");
             /************************************************************/
             Console.WriteLine("1. single if statement");
             Console.Write("\tEnter a whole positive number: ");
@@ -157,49 +157,6 @@ namespace COMP003A.LectureActivity3
                     break;
             }
   
-        }
-    }
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         }
     }
 }
