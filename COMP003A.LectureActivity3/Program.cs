@@ -1,7 +1,7 @@
 ﻿/*
  * Author: Matthew Alvarez
  * Course: COMP003A
- * Purpose: Week 3 Lecture
+ * Purpose: Week 3 Lecture Activity
  */
 using System.Reflection.Metadata;
 
